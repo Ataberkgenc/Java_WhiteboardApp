@@ -6,11 +6,7 @@ This is a simple whiteboard app that teacher can draw shapes from menu and stude
 
 * Java 11.01 must be installed before running the program.
 
-===================================================================================================================================
-
-The program runs in all different OS's (eg. Windows, Mac, Linux.)
-
-===================================================================================================================================
+The program can run in all different OS's (eg. Windows, Mac, Linux.)
 
 I made this project for the beginners that they want to learn proccesses about Java Graphics and Socket Programming. 
 

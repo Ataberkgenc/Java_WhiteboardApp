@@ -26,9 +26,11 @@ The program can run in all different OS's (eg. Windows, Mac, Linux.)
 
 # TO RUN THE PROGRAM:
 
-1. You can use Jar files in the: Project directory => out => artifacts => WhiteboardApp_jar (Server (Teacher)) and WhiteboardApp_jar2(Client (Student) ) 
+* There are two ways to run the program:
 
-2. You can first run ServerMain.java then ClientMain.java
+1. First way: You can use Jar files in the: Project directory => out => artifacts => WhiteboardApp_jar (Server (Teacher)) and WhiteboardApp_jar2(Client (Student)) 
+
+2. Second way: You can first run ServerMain.java then ClientMain.java
 
 
 # IN ORDER TO DRAW A SHAPE:

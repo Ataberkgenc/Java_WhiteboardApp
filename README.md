@@ -1,19 +1,19 @@
 # Java Whiteboard App
 
 This is a simple whiteboard app that teacher can draw shapes from menu and students can see the shapes simultaneously.
+I made this project for the beginners that they want to learn proccesses about Java Graphics and Socket Programming. 
+
+Server(Teacher) and client(Student) can run only in the same PC.
+
+Painter.java handle the paint operations of MyServer.java
+ClientPainter.java handle the paint operations of MyClient.java
+
+The program can run in all different OS's (eg. Windows, Mac, Linux.)
+
 
 # GENERAL REQUIREMENTS:
 
 * Java 11.01 must be installed before running the program.
-
-The program can run in all different OS's (eg. Windows, Mac, Linux.)
-
-I made this project for the beginners that they want to learn proccesses about Java Graphics and Socket Programming. 
-
-* Server(Teacher) and client(Student) can run only in the same PC.
-
-Painter.java handle the paint operations of MyServer.java
-ClientPainter.java handle the paint operations of MyClient.java
 
 
 # SPECİFİCATİONS: 
